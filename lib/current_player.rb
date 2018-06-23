@@ -3,10 +3,11 @@ counter = 0
 board.each do |occupied|
 if occupied == "X" || occupied == "O"
   counter += 1
-else
-  return counter = counter
+else 
+  return counter
 end
 end
+return counter
 end
 #def current_player(board)
 
