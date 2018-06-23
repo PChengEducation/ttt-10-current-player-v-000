@@ -11,4 +11,3 @@ elsif turn_count()%2 == 1
 return "O"
 
 end
-
