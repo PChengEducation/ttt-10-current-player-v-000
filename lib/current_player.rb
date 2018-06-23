@@ -14,5 +14,5 @@ return "X"
 
 elsif turn_count(board)%2 == 1
 return "O"
-
+end
 end
