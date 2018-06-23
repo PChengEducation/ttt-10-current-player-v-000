@@ -7,6 +7,7 @@ if occupied = "X" || occupied = "O"
 else
   return nil
 end
+end
 
 #def current_player(board)
 
