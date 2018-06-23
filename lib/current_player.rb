@@ -4,7 +4,7 @@ board.each do |occupied|
 if occupied == "X" || occupied == "O"
   counter += 1
 else
-  return counter
+  return counter = counter
 end
 end
 end
